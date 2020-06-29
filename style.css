@@ -3,3 +3,28 @@
   padding: 0;
   box-sizing: border-box;
 }
+.roma{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(https://wips.plug.it/cips/initalia.virgilio.it/cms/2019/09/roma-colosseo.jpg);
+  height: 100vh;
+  width: 100vw calc(100%-20px);
+  margin: 10px;
+}
+.copenaghen{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(https://www.10cose.it/wp-content/uploads/2015/09/copenhagen.jpg);
+  height: 100vh;
+  width: 100vw calc(100%-20px);
+  margin: 10px;
+}
+
+.tokyo{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(https://becasse.it/wp-content/uploads/2019/04/tokyo-1-1.jpg);
+  height: 100vh;
+  width: 100vw calc(100%-20px);
+  margin: 10px;
+}
